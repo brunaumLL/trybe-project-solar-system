@@ -3,5 +3,64 @@
 }
 
 body {
-  background-color: beige;
+  background-image: url('./images/background.png');
+  color: white;
+}
+
+.planets-card {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.planet-card {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.title-card {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.title {
+  align-items: center;
+  border: solid 1px;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  font-weight: 700;
+  padding: 20px;
+  width: 40%;
+}
+
+.missions-card {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  width: 100%;
+
+}
+
+.mission-card {
+  align-items: center;
+  border: solid 1px;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  margin: 25px;
+  width: 20%;
+}
+
+.mission-name {
+  font-size: 21px;
+  font-weight: 700;
+}
+
+img {
+  width: 100px;
 }
