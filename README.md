@@ -1,7 +1,13 @@
-# :construction: README customizado em construção ! :construction:
+# Solar System
 
-# Sobre o projeto:
-O projeto usa uma API simulada dos planetas do sistema solar e de missões espaciais já lançadas, usando o React.js para criar e organizar componentes que juntos formam a página final.
+## Sobre o projeto:
+O projeto usa uma API simulada dos planetas do sistema solar e de missões espaciais já lançadas e suas informações, organizadas e distribuidas em componentes que juntos formam a página final.
+
+## O que é de minha autoria:
+Os arquivos do diretório `.src/components` e o arquivo `.src/App.js`.
+
+## Tecnologias utilizadas:
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 <details>
   <summary>
