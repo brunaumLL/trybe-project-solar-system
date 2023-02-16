@@ -1,7 +1,6 @@
 {
   "name": "solar-system",
   "version": "0.1.0",
-  "homepage": "https://brunaumll.github.io/trybe-project-solar-system",
   "private": true,
   "engines": {
     "node": "16"
@@ -16,8 +15,6 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -48,7 +45,6 @@
     "eslint": "^7.32.0",
     "eslint-config-trybe-frontend": "^1.2.2",
     "eslint-plugin-sonarjs": "^0.10.0",
-    "gh-pages": "^4.0.0",
     "prop-types": "^15.7.2",
     "stylelint": "^13.8.0",
     "stylelint-config-standard": "^20.0.0",
